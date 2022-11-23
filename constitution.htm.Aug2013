@@ -1,0 +1,394 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>Welcome to the Cabarrus Amateur Radio Society</title><link rel="shortcut icon" href="favicon.ico">
+
+<style type="text/css">
+<!--
+body {
+	background-color: #666666;
+	background-image: url();
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	background-position: 0px 0px;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.style15 {font-family: Tahoma, Arial, serif; font-size: 12px; }
+.style17 {font-family: Tahoma, Arial, serif; font-size: 14px; font-weight: bold; }
+.style18 {font-family: Tahoma, Arial, serif; font-size: 12px; font-weight: bold; }
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('images/nav/history_02.jpg','images/nav/repeaters_02.jpg','images/nav/membership_02.jpg','images/nav/links_02.jpg','images/nav/contact_02.jpg','images/nav/home_02.jpg','images/nav/meetings_02.jpg')">
+<table align="center" background="images/top_banner_01.jpg" border="0" cellpadding="0" cellspacing="0" width="955">
+  <tbody><tr>
+    <td colspan="4" height="125" width="727"><br>
+      <br>
+      <table align="left" border="0" cellpadding="5" cellspacing="0" width="70%">
+      <tbody><tr><td><a href="membership.htm"><img style="border: 0px solid ; width: 102px; height: 22px;" alt="Membership" src="images/nav/membership_01.jpg"></a></td><td></td><td></td><td></td></tr><tr>
+        <td><a href="index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','images/nav/home_02.jpg',1)"><img src="images/nav/home_01.jpg" name="Home" border="0" height="22" width="102"></a></td>
+        <td><a href="meetings.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Meetings','','images/nav/meetings_02.jpg',1)"><img src="images/nav/meetings_01.jpg" name="Meetings" border="0" height="22" width="102"></a></td>
+        <td><a href="repeaters.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Repeaters','','images/nav/repeaters_02.jpg',1)"><img src="images/nav/repeaters_01.jpg" name="Repeaters" border="0" height="22" width="102"></a></td>
+        <td><img src="images/nav/constitution_03.jpg" alt="" height="22" width="102"></td>
+      </tr>
+      
+    </tbody></table>
+    </td>
+    <td rowspan="2" width="225">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#666666" width="5"><br>
+      <br>
+    <br></td>
+    <td bgcolor="#ffffff" width="5">&nbsp;</td>
+    <td bgcolor="#ffffff" valign="top" width="715"><div class="style9" align="center">
+      <div class="style15" align="left">
+        <div align="center">
+          <p class="style17"><br>
+            <u>CABARRUS AMATEUR RADIO SOCIETY CONSTITUTION</u></p>
+          </div>
+      </div>
+    </div></td>
+    <td bgcolor="#ffffff" valign="top" width="5">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="955">
+  <tbody><tr>
+    <td bgcolor="#666666" valign="bottom" width="5"><img src="images/blk-gry_ver.jpg" align="bottom" height="350" width="5"></td>
+    <td bgcolor="#ffffff" valign="top" width="5"><p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+    <td bgcolor="#ffffff" valign="top" width="715"><p class="style17" align="left"><u>PREAMBLE</u></p>
+      <p class="style15">In
+order to formalize our common interest in amateur radio, it's
+associated activities, and to more closely bond ourselves in it's
+traditional spirit of fellowship, public service, and cooperation; we
+the membership, do hereby adopt and bind ourselves to this constitution
+as the laws governing the society.</p>
+      <p class="style17" align="left"><u>ARTICLE I - NAME</u></p>
+      <p class="style15">The organization shall be named "the Cabarrus Amateur Radio Society" and may be abbreviated C.A.R.S.</p>
+      <p class="style17" align="left"><u>ARTICLE II - PURPOSE</u></p>
+      <p class="style15">It shall be the purpose of the organization to:</p>
+      <p class="style15"><strong>(1)</strong> promote and foster technical knowledge of amateur radio among it's members and other interested parties.</p>
+      <p class="style15"><strong>(2)</strong>
+develop and provide systems and procedures to enable the rendering of
+services to the community, appropriate government agencies, and
+deserving organizations.</p>
+      <p class="style15"><strong>(3)</strong>
+organize and maintain a state of readiness to permit timely response in
+the event of emergencies, either actual or simulated, and to
+participate in periodic exercises to test and enhance this capability.</p>
+      <p class="style15"><strong>(4)</strong>
+promote cooperation and fraternalism within the membership and with all
+elements of the public in order to expand awareness, knowledge, and
+interest in amateur radio and it's capabilities.</p>
+      <p class="style15"><strong>(5)</strong>
+encourage and assist all persons who have an interest in amateur radio
+and aid them in becoming licensed amateur radio operators.</p>
+      <p class="style15"><strong>(6)</strong> promote good operating practices and compliance with regulations and customs of the amateur service.</p>
+      <p class="style17" align="left"><u>ARTICLE III - MEMBERSHIP</u></p>
+      <p class="style15">All
+persons with a genuine interest in amateur radio and it adjuncts shall
+be eligible for membership. Election to membership shall be by
+sponsored application and as further provided in such by-laws hereto or
+which may be enacted.</p>
+      <p class="style17" align="left"><u>ARTICLE IV - OFFICERS</u></p>
+      <p class="style15"><strong>SEC. 1.</strong> Officers shall be a president, vice-president, secretary, treasurer, and an activities manager.</p>
+      <p class="style15"><strong>SEC. 2.</strong>
+Officers shall be elected annually to serve for a period of one
+calendar year and shall assume their duties at the first meeting of
+each calendar year.</p>
+      <p class="style15"><strong>SEC. 3.</strong>
+A slate of officers proposed for election shall be submitted in writing
+to the membership by an appointed nominating committee not less than 30
+days prior to an election. Nominations may be made' from the floor at
+the meeting in which the nominations are announced.</p>
+      <p class="style15"><strong>SEC. 4.</strong>
+It shall be the duty of the president to appoint a nominating committee
+for each election. The committee shall be composed of not less than
+three members who shall not be current holders of elective office.</p>
+      <p class="style15"><strong>SEC. 5.</strong>
+Election of officers shall be by written ballot at an appropriate
+meeting held near the end of a calendar year and shall not be valid
+unless a quorum consisting of not less than one third of members
+entitled to note are present.</p>
+      <p class="style15"><strong>SEC. 6.</strong>
+Vacancies in elected offices occurring between annual elections shall
+be filled by special election to be conducted at a regular meeting held
+not less than thirty nor more than sixty days after the vacancy occurs.
+Nominations shall be made from the floor. Any person elected to fill a
+vacancy shall serve to the completion of the unexpired term of the
+officer he/she is elected to replace.</p>
+      <p class="style15"><strong>SEC. 7.</strong>
+Any elected officer may be removed from office in a recall election
+when approved by two thirds of members present, but only after such
+intended action has been published for not less than thirty days.</p>
+      <p class="style15"><strong>SEC. 8.</strong>
+A recall election shall be conducted when requested by a petition
+signed by not less than one fourth of the members eligible to vote.</p>
+      <p class="style15"><strong>SEC. 9.</strong> The membership of any person shall be terminated in the manner prescribed for removing an elected officer.</p>
+      <p class="style17" align="left"><u>ARTICLE V - DUTIES</u></p>
+      <p class="style15"><strong>SEC. 1.</strong>
+The president shall be the principal presiding officer and shall
+conduct all meetings in accordance with accepted rules of order or such
+deviations therefrom as may be approved by the membership pro tempore.
+It shall be the duty of the president to conduct the society's business
+in accordance with this constitution and it's by-laws. It shall further
+be the duty of the president to sign all documents and correspondence
+not properly delegated to others. He/she shall perform all other duties
+which may be prescribed for the office including those duties and
+functions customarily associated with those of a presiding officer.</p>
+      <p class="style15"><strong>SEC. 2.</strong>
+In the absence of the president at any meeting or other function
+normally conducted by the president, the vice president shall preside.
+In the absence of both the president and vice president a member may be
+selected to preside pro tempore.</p>
+      <p class="style15"><strong>SEC. 3.</strong>
+It shall be the duty of the secretary to maintain accurate records of
+all society proceedings. These shall include a current roster of the
+membership, a file of all correspondence, minutes of meetings,
+membership applications, the status of membership in national amateur
+organizations, and all pertinent records of society activities. He/she
+shall also be the custodian of the constitution and it's by-laws.</p>
+      <p class="style15"><strong>SEC. 4.</strong>
+The treasurer shall be the custodian of society funds, shall receive
+and dispense all funds, and maintain accurate records of all
+transactions. He/she shall make no expenditures of any funds without
+proper authority. He/she shall be prepared to submit reports of the
+status of accounts to the membership and board of directors at any
+meeting. It shall be his/her further duty to keep the secretary advised
+of the status of the membership with regard to their financial
+obligations to the society.</p>
+      <p class="style15"><strong>SEC. 5.</strong>
+The activities manager shall be responsible for coordinating and
+arranging field events, public demonstrations, and society
+participation in non-emergency activities. He/she shall conduct
+activities in such a manner as to obtain maximum effectiveness and
+recognition of the capabilities of amateur radio in general and the
+society in particular. The activities manager shall in cooperation with
+others arrange for special programs at meetings and society events. The
+activities manager shall be the principal society official in all
+emergencies, real or simulated.</p>
+      <p class="style17" align="left"><u>ARTICLE VI - BOARD OF DIRECTORS</u></p>
+      <p class="style15"><strong>SEC. 1.</strong>
+A board of directors shall be established for the purpose of developing
+policies and recommendations for approval and/or implementation by the
+membership. It shall be the duty of the board of directors to conduct
+society business in accordance with it's decision, which shall include
+recommendations to the membership for the expenditure of funds of a
+non- routine nature in the furtherance of the society programs and
+projects. It shall be the further duty of the board to recommend to the
+membership the place and time of regular meetings.</p>
+      <p class="style15"><strong>SEC. 2.</strong>
+The board of directors shall consist of seven members who shall assume
+their duties following their election at the first meeting of the
+calendar year and shall serve until the next annual election.</p>
+      <p class="style15"><strong>SEC. 3.</strong>
+The board of directors shall be composed of the incumbent president,
+vice president, secretary, treasurer, activities manager, and two
+persons elected by the active membership. The chairman of the board of
+governors shall be elected by the Board Membership.</p>
+      <p class="style15"><strong>SEC. 4.</strong> The board shall report it's actions to the membership at the next regular meeting following each board meeting.</p>
+      <p class="style15"><strong>SEC. 5.</strong>
+Board meetings shall be held at the call of the chairman or at the
+request of the general membership in a meeting assembled to consider
+issues or policy matters which cannot be resolved by the membership in
+regular meetings. All board meetings shall be open to attendance by
+voting members of the society.</p>
+      <p class="style15"><strong>SEC. 6.</strong> Vacancies occurring on the board of directors shall be filled in the manner prescribed for all elective offices.</p>
+      <p class="style17" align="left"><u>ARTICLE VII - ADOPTION AND AMENDMENTS</u></p>
+      <p class="style18">SEC. 1. EFFECTIVE DATE</p>
+      <p class="style15">This
+constitution and it's by-laws shall become effective upon it's
+ratification by a favorable vote of two thirds of the members present
+at a regular meeting. It shall be published to all voting members not
+less than thirty days prior to such vote being taken.</p>
+      <p class="style18">SEC. 2. AMENDMENTS</p>
+      <p class="style15">Amendments,
+deletions, or additions to these articles or the by-laws of this
+constitution may be made by vote of two thirds of the members present
+at any meeting at which a quorum exists, but only after the proposed
+changes have been published to the members for not less than thirty
+days prior to such vote.</p>
+      <p> </p>
+      <p class="style17" align="center"><u>BY-LAWS</u></p>
+      <p class="style17" align="left"><u>MEMBERSHIP CLASSIFICATION</u></p>
+      <p class="style18">SEC. 1. HONORARY MEMBERSHIP</p>
+      <p class="style15">Honorary
+membership shall be accorded those persons elected by the membership in
+recognition of their special interest, contributions, or any
+meritorious actions on behalf of the membership in recognition of their
+special interest, contributions, or meritorious actions on behalf of
+the society or amateur radio in general. Honorary members shall be
+exempt from dues and shall not have voting privileges.</p>
+      <p class="style18">SEC. 2. LIFE MEMBERSHIP</p>
+      <p class="style15">Life
+membership shall be awarded those licensed individuals who the
+membership wishes to honor for their contributions to amateur radio, to
+the society, or for other special reasons. Such status shall normally
+be restricted to members or ex-members of the society. Life members
+shall be exempt from dues and shall have voting rights. Life membership
+may be awarded by vote of the membership to any active member who has
+reached the age of sixty five and who has been a continuously active
+member for the immediately preceding ten years.</p>
+      <p class="style18">SEC. 3. REGULAR MEMBERSHIP</p>
+      <p class="style15">Regular
+membership shall be accorded any licensed person elected by a majority
+of the membership upon submission of written application sponsored by
+an active member. Written applications may be waived when expedient.
+Regular members shall be subject to payment of dues and shall have
+voting rights.</p>
+      <p class="style18">SEC. 4. FAMILY MEMBERSHIP</p>
+      <p class="style15">Family
+membership shall be awarded to any sponsored licensed person who is the
+spouse or dependent of an active member. Family members shall be
+required to pay dues as prescribed and shall have voting rights.
+Retention of family membership shall be contingent upon the continuing
+active membership of the principle member.</p>
+      <p class="style18">SEC. 5. ANNUAL DUES</p>
+      <p class="style15">Annual
+dues of regular members shall be $15.00. Family membership dues shall
+be one half the amount of the annual dues prescribed for regular
+members.</p>
+      <p class="style18">SEC. 6. QUORUM</p>
+      <p class="style15">A
+quorum is defined as being one third of the society members entitled to
+vote. In determining the existence of a quorum fractional numbers shall
+be adjusted to the nearest whole number.</p>
+      <p class="style18">SEC. 7. DELINQUENCIES</p>
+      <p class="style15">Annual
+dues are payable on i january of each year and shall become
+automatically delinquent if not received by i march. Members who become
+delinquent shall de deleted from the roster until re-elected. Annual
+dues may not be pro-rated except for new members elected during the
+course of a calendar year.</p>
+      <p class="style18">SEC. 8. PERMANENT COMMITTEES</p>
+      <p class="style15">Permanent
+committees may be established for special purposes of a recurrent or
+continuing nature. Numerical composition of permanent committees shall
+be consistent with the assigned committee tasks. The members of
+permanent committees shall be appointed by the president. Permanent
+committees shall elect their own chairman.</p>
+      <p class="style18">SEC. 9. AD HOC COMMITTEES</p>
+      <p class="style15">Ad
+hoc committees may be established for the purpose of conducting short
+duration tasks of a non-recurrent or temporary nature. Such committees
+shall become automatically dissolved upon completion of their
+assignment. Committee membership may be established by presidential
+appointment or by volunteers from the membership.</p>
+      <p class="style18">SEC. 10. PERMANENT COMMITTEES</p>
+      <p class="style15">Permanent committees shall be:</p>
+      <p class="style15"><strong>(A)</strong> a hamfest committee to be appointed annually.</p>
+      <p class="style15"><strong>(B)</strong> a technical committee to be appointed annually.</p>
+      <p class="style18">SEC. 11. COMMITTEE DUTIES</p>
+      <p class="style15"><strong>(A)</strong>
+it shall be the duty of the hamfest committee under the leadership of
+it's chairman (or co-chairmen) to plan and execute all functions
+necessary to the conduct of an annual hamfest. The committee will at
+all times keep the membership informed of the current status of it's
+plans and actions and solicit such assistance as may be required' in
+the furtherance of it's project.</p>
+      <p class="style15"><strong>(B)</strong>
+the technical committee shall be responsible to the membership for the
+installation, maintenance, and operation of society owned repeaters and
+other devices. The committee shall be the primary custodian of all
+installed facilities and shall establish and make known to the
+membership rules and procedures for it's proper use. It shall further
+advise and secure membership approval for any proposed up-grading or
+major changes to existing facilities and to make recommendations for
+any procurement of new equipment.<br>
+        <br>
+      </p>
+      </td>
+    <td bgcolor="#ffffff" valign="top" width="5">&nbsp;</td>
+    <td valign="top" width="225">      <div align="center">
+      <p><a href="http://groups.yahoo.com/subscribe/CabarrusARS" target="external3"><img src="images/cars_yahoo-grp.jpg" border="0" height="77" width="178"></a></p>
+      <hr width="80%">
+    </div>
+      <form action="http://www.qrz.com/db/" method="get" target="external">
+        <div align="center"><img src="images/qrzcom.jpg" height="60" width="193"><br>
+                  <input name="callsign" size="10" type="text">
+&nbsp;&nbsp;&nbsp;
+            <input value="Search" type="submit">
+        </div>
+      </form>
+      <div align="center">
+        <hr width="80%">
+        <div style="width: 180px; height: 150px; background-image: url(http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/black_180x150_bg.jpg); background-repeat: no-repeat; background-color: rgb(0, 0, 0);">
+		      <div id="NetweatherContainer" style="height: 138px;"><script src="http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&amp;tStyle=whteYell&amp;logo=1&amp;zipcode=28025&amp;lang=eng&amp;size=8&amp;theme=black&amp;metric=0&amp;target=_self"></script></div><div style="text-align: center; font-family: arial,helvetica,verdana,sans-serif; font-size: 10px; line-height: 12px; color: rgb(255, 255, 255);"><a style="color: rgb(255, 255, 255);" href="http://www.accuweather.com/us/nc/concord/28025/city-weather-forecast.asp?partner=accuweather">Weather Forecast</a> | <a style="color: rgb(255, 255, 255);" href="http://www.accuweather.com/maps-satellite.asp">Weather Maps</a></div>
+<script type="text/javascript">
+
+   /* Locations can be edited manually by updating 'wx_locID' below.  Please also update */
+   /* the location name and link in the above div (wx_module) to reflect any changes made. */
+   var wx_locID = '28025';
+
+   /* If you are editing locations manually and are adding multiple modules to one page, each */
+   /* module must have a unique div id.  Please append a unique # to the div above, as well */
+   /* as the one referenced just below.  If you use the builder to create individual modules  */
+   /* you will not need to edit these parameters. */
+   var wx_targetDiv = 'wx_module_8985';
+
+   /* Please do not change the configuration value [wx_config] manually - your module */
+   /* will no longer function if you do.  If at any time you wish to modify this */
+   /* configuration please use the graphical configuration tool found at */
+   /* https://registration.weather.com/ursa/wow/step2 */
+   var wx_config='SZ=180x150*WX=FHW*LNK=SSNL*UNT=F*BGC=363636*MAP=null|null*DN=cabarrusars.org*TIER=0*PID=1270846146*MD5=fee7b37f256884038b04ae0eccbf15fe';
+
+   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target='+wx_targetDiv+'"></scr'+'ipt>');  
+              </script>
+			  
+        </div>
+      </div>
+    <div align="center">  </div></td></tr>
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="955">
+  <tbody><tr>
+    <td valign="top" width="734"><img src="images/blk-gry_hor.jpg" height="5" width="725"></td>
+    <td rowspan="2" height="5" valign="top" width="214"><div align="center">
+      <p>&nbsp;</p>
+      </div></td>
+    <td rowspan="2" width="7">&nbsp;</td>
+  </tr>
+  <tr align="center">
+    <td valign="top"><span class="style1">&nbsp;©
+2012 (K4WC) <br>Cabarrus Amateur Radio
+Society<br>PO BOX 1290, Concord, NC
+28026</span></td>
+  </tr>
+</tbody></table>
+</body></html>

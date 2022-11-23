@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>Welcome to the Cabarrus Amateur Radio Society</title><link rel="shortcut icon" href="favicon.ico">
+
+<style type="text/css">
+<!--
+body {
+	background-color: #666666;
+	background-image: url();
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	background-position: 0px 0px;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.style15 {font-family: Tahoma, Arial, serif; font-size: 12px; }
+.style16 {font-family: Tahoma, Arial, serif; font-size: 16px; font-weight: bold; }
+.style17 {font-family: Tahoma, Arial, serif; font-size: 12px; font-weight: bold; }
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('images/nav/history_02.jpg','images/nav/constitution_02.jpg','images/nav/membership_02.jpg','images/nav/links_02.jpg','images/nav/contact_02.jpg','images/nav/home_02.jpg','images/nav/meetings_02.jpg')">
+<table align="center" background="images/top_banner_01.jpg" border="0" cellpadding="0" cellspacing="0" width="955">
+  <tbody><tr>
+    <td colspan="4" height="125" width="727"><br>
+      <br>
+      <table align="left" border="0" cellpadding="5" cellspacing="0" width="70%">
+      <tbody><tr><td><a href="membership.htm"><img style="border: 0px solid ; width: 102px; height: 22px;" alt="Membership" src="images/nav/membership_01.jpg"></a></td><td></td><td></td><td></td></tr><tr>
+        <td><a href="index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','images/nav/home_02.jpg',1)"><img src="images/nav/home_01.jpg" name="Home" border="0" height="22" width="102"></a></td>
+        <td><a href="meetings.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Meetings','','images/nav/meetings_02.jpg',1)"><img src="images/nav/meetings_01.jpg" name="Meetings" border="0" height="22" width="102"></a></td>
+        <td><a href="history.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('History','','images/nav/history_02.jpg',1)"><img src="images/nav/repeaters_03.jpg" alt="" height="22" width="102"></a></td>
+        <td><a href="constitution.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Constitution','','images/nav/constitution_02.jpg',1)"><img src="images/nav/constitution_01.jpg" name="Constitution" border="0" height="22" width="102"></a></td>
+      </tr>
+      
+    </tbody></table>
+    </td>
+    <td rowspan="2" width="225">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#666666" width="5"><br>
+      <br>
+    <br></td>
+    <td bgcolor="#ffffff" width="5">&nbsp;</td>
+    <td bgcolor="#ffffff" valign="top" width="715"><div class="style9" align="center">
+      <div class="style15" align="left">
+        <div class="style16" align="center"><br>
+          The K4CEB Voice Repeater</div>
+      </div>
+    </div></td>
+    <td bgcolor="#ffffff" valign="top" width="5">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="955">
+  <tbody><tr>
+    <td bgcolor="#666666" valign="bottom" width="5"><img src="images/blk-gry_ver.jpg" align="bottom" height="350" width="5"></td>
+    <td bgcolor="#ffffff" valign="top" width="5"><p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+    <td bgcolor="#ffffff" valign="top" width="715"><p class="style15">The
+K4CEB voice repeater operates on an output frequency of 146.655 MHz
+with an input frequency of 146.055 MHz and is located in Concord, North
+Carolina. It is owned, operated and maintained by the members of the
+Cabarrus Amateur Radio Society.&nbsp;</p>
+      <p class="style17" align="center">C.A.R.S. Repeater Facts</p>
+      <p class="style17" align="left">        <strong>Repeater:</strong></p>
+      <ul>
+        <li class="style15"> Motorola MSR 2000 commercial unit</li>
+        <li class="style15">          110 watt transmitter output - continuous duty rated</li>
+        <li class="style15">          High stability TCXO option (Tx and Rx)</li>
+        <li class="style15">          Battery back up option</li>
+        <li class="style15">          GaAs FET Receiver pre-amp</li>
+      </ul>      
+      <p class="style17">Duplexer:</p>
+      <ul>
+        <li class="style15"> Wacom Bp-Br (band pass- band reject) 4 cavity</li>
+        <li class="style15">          6 inch cavities with additional band pass filter cavity on Tx and Rx sections</li>
+        <li class="style15">          Duplexer losses (measured) 3.0 db</li>
+      </ul>      
+      <p class="style17">Antenna System:</p>      
+      <ul>
+        <li class="style15"> Antenna- Phelps Dodge Super Station Master, 5.25 db gain</li>
+        <li class="style15"> Feed line- CelWave 7/8" Heliax type cable approximately 220 feet</li>
+        <li class="style15">          Cable losses approximately 2.5 db</li>
+        <li class="style15">          Lightning protection on all systems</li>
+        <li class="style15">          Grounding- 4 eight foot rods bonded to all grounds used in system</li>
+        <li class="style15">          System E.R.P. (approx.) 70+ watts</li>
+      </ul>      
+      <p class="style17">Controller:</p>
+      <ul>
+        <li class="style15"> Computer Automation Technology - CAT 1000</li>
+      </ul>      <p class="style17">Emergency Equipment:</p>
+      <ul>
+        <li class="style15"> Kholer 10 kVA auto start generator (thanks to the City of Concord for allowing C.A.R.S. to share)</li>
+        <li class="style15"> 650 watt UPS to keep power during generator switch over</li>
+    </ul></td>
+    <td bgcolor="#ffffff" valign="top" width="5">&nbsp;</td>
+    <td valign="top" width="225">      <div align="center">
+      <p><a href="http://groups.yahoo.com/subscribe/CabarrusARS" target="external3"><img src="images/cars_yahoo-grp.jpg" border="0" height="77" width="178"></a></p>
+      <hr width="80%">
+    </div>
+      <form action="http://www.qrz.com/db/" method="get" target="external">
+        <div align="center"><img src="images/qrzcom.jpg" height="60" width="193"><br>
+                  <input name="callsign" size="10" type="text">
+&nbsp;&nbsp;&nbsp;
+            <input value="Search" type="submit">
+        </div>
+      </form>
+      <div align="center">
+        <hr width="80%">
+        <div style="width: 180px; height: 150px; background-image: url(http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/black_180x150_bg.jpg); background-repeat: no-repeat; background-color: rgb(0, 0, 0);">
+		      <div id="NetweatherContainer" style="height: 138px;"><script src="http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&amp;tStyle=whteYell&amp;logo=1&amp;zipcode=28025&amp;lang=eng&amp;size=8&amp;theme=black&amp;metric=0&amp;target=_self"></script></div><div style="text-align: center; font-family: arial,helvetica,verdana,sans-serif; font-size: 10px; line-height: 12px; color: rgb(255, 255, 255);"><a style="color: rgb(255, 255, 255);" href="http://www.accuweather.com/us/nc/concord/28025/city-weather-forecast.asp?partner=accuweather">Weather Forecast</a> | <a style="color: rgb(255, 255, 255);" href="http://www.accuweather.com/maps-satellite.asp">Weather Maps</a></div>
+<script type="text/javascript">
+
+   /* Locations can be edited manually by updating 'wx_locID' below.  Please also update */
+   /* the location name and link in the above div (wx_module) to reflect any changes made. */
+   var wx_locID = '28025';
+
+   /* If you are editing locations manually and are adding multiple modules to one page, each */
+   /* module must have a unique div id.  Please append a unique # to the div above, as well */
+   /* as the one referenced just below.  If you use the builder to create individual modules  */
+   /* you will not need to edit these parameters. */
+   var wx_targetDiv = 'wx_module_8985';
+
+   /* Please do not change the configuration value [wx_config] manually - your module */
+   /* will no longer function if you do.  If at any time you wish to modify this */
+   /* configuration please use the graphical configuration tool found at */
+   /* https://registration.weather.com/ursa/wow/step2 */
+   var wx_config='SZ=180x150*WX=FHW*LNK=SSNL*UNT=F*BGC=363636*MAP=null|null*DN=cabarrusars.org*TIER=0*PID=1270846146*MD5=fee7b37f256884038b04ae0eccbf15fe';
+
+   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target='+wx_targetDiv+'"></scr'+'ipt>');  
+              </script>
+			  
+        </div>
+      </div>
+    <div align="center">  </div></td></tr>
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="955">
+  <tbody><tr>
+    <td valign="top" width="734"><img src="images/blk-gry_hor.jpg" height="5" width="725"></td>
+    <td rowspan="2" height="5" valign="top" width="214"><div align="center">
+      <p>&nbsp;</p>
+      </div></td>
+    <td rowspan="2" width="7">&nbsp;</td>
+  </tr>
+  <tr align="center">
+    <td valign="top"><span class="style1">&nbsp;©
+2012 (K4WC) <br>Cabarrus Amateur Radio
+Society<br>PO BOX 1290, Concord, NC
+28026</span></td>
+  </tr>
+</tbody></table>
+</body></html>
